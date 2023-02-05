@@ -39,9 +39,7 @@ class Preprocessing:
 		X = df.drop(target, axis=1)
 		y = df[target]
 		return X, y
-
-	@staticmethod
-	def get_numerical_columns(df: pd.DataFrame) -> list:
+1	def get_numerical_columns(df: pd.DataFrame) -> list:
 		"""
 		:param df: pandas DataFrame
 		:return: list of numerical columns

@@ -18,6 +18,6 @@ Created to make faster boring stuff in preprocessing data and data analysis.
 Send your bug reports and feature requests to: email
 
 # License
-i'm Dasha
+i'm Dasha123
 
 
